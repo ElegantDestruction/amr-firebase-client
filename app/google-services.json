@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87288672824",
+    "firebase_url": "https://amr-sensor-data.firebaseio.com",
+    "project_id": "amr-sensor-data",
+    "storage_bucket": "amr-sensor-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87288672824:android:99880545d8faaa20a6eccd",
+        "android_client_info": {
+          "package_name": "com.example.amrfirebaseclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87288672824-66t4rgbhhs21jebqoli07p8o9njcaqmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbiar3Ws6ovgpVGvUVRmqtf6-E4nU63TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87288672824-66t4rgbhhs21jebqoli07p8o9njcaqmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AMRFirebaseClient</string>
+    <string name="datetime_label">Last Update:</string>
+    <string name="datapoint_label_1">Accel. Calib:</string>
+    <string name="datapoint_label_2">Gyro Calib:</string>
+    <string name="datapoint_label_3">Heading:</string>
+    <string name="datapoint_label_4">MagMom Calib:</string>
+    <string name="datapoint_label_5">Pitch:</string>
+    <string name="datapoint_label_6">Roll:</string>
+    <string name="datapoint_label_7">Sys Calib:</string>
+    <string name="no_datetime">No datetime</string>
+    <string name="empty_data">Null</string>
+    <string name="button_label">Get Data</string>
+</resources>
